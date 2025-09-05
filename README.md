@@ -10,9 +10,9 @@ The environment also natively supports macOS ARM architecture, making it suitabl
 To use the `Pixi` environment, follow these steps:
 1. Make sure Pixi is installed on your system. You can find installation instructions [here](https://pixi.bio/docs/installation).
 2. Clone this repository to your local machine.
-3. Navigate to the directory of the practical you want to work on.
+3. Navigate to the main directory of the repo .
 4. Run the `Jupyter Lab` command to start the Jupyter Lab environment with the `Pixi` environment activated.
-5. Open the notebook for the practical you want to work on and start coding!
+5. Open the notebook for the practical you want to work on and that's it!
 6. For practical 5, which is R-based, ensure you have the appropriate R environment set up as per the original repository instructions (Docker)
 
 ```bash
