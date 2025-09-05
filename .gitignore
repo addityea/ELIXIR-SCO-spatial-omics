@@ -10,3 +10,16 @@ day_1/practical_1/data/*.zip
 day_2/practical_3/data/*/
 day_2/practical_3/data/*.zip
 .ipynb_checkpoints/
+
+# Pixi specific
+.pixi/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
